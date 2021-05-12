@@ -3,7 +3,7 @@ A javascript simulator for Matt Parker's "Near-Missajous Curve"
 See the video on youtube here https://www.youtube.com/watch?v=4CbPksEl51Q
 
 ## Live Demo
-https://npcos.github.io/Missajous-Simulator/
+https://missajous.olisworld.com/
 
 ## p5.js
 This project makes use of the [p5.js](https://p5js.org/) javascript library for the canvas and dom.
